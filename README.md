@@ -11,7 +11,7 @@ This json was processed by Professor Ellen Veomett and her student Arbie Hsu usi
 
 The following obtained from [Redistricting Data Hub](https://redistrictingdatahub.org/) on June, 2024:
 
-[Population data](https://redistrictingdatahub.org/dataset/2022-arkansas-primary-l2-voter-file-aggregated-to-2020-census-blocks/): based on the decennial census at the Census Block level on 2020 Census Redistricting Data
+[Population data](https://redistrictingdatahub.org/dataset/arkansas-block-pl-94171-2020-by-table/): based on the decennial census at the Census Block level on 2020 Census Redistricting Data
 
 [County data](https://redistrictingdatahub.org/dataset/arkansas-county-cvap-data-2022/): from the US Census Bureau's 2018-2022 American Community Survey (ACS)
 
