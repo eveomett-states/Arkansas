@@ -5,7 +5,7 @@ Use of this project is further governed by the terms of the [Creative Commons At
 
 # Arkansas Json
 
-This json was processed by Professor Ellen Veomett and her student Arbie Hsu.
+This json was processed by Professor Ellen Veomett and her student Arbie Hsu using the corresponding jupyter notebook. As part of the cleaning process, precincts were nested within counties and small rook adjacencies (under 30.5 m) were changed to queen adjacencies.
 
 # **Sources**
 
